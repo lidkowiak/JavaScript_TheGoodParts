@@ -1,2 +1,2 @@
-JavaScript_TheGoodParts
-=======================
+JavaScript The GoodParts Examples
+=================================
